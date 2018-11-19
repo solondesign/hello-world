@@ -1,2 +1,5 @@
 # hello-world
-An example respository
+
+Hello world!
+
+These edits are part of the first branch of the Master.
